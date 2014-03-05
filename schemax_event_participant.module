@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the schemax_event_participant feature.
+ */
+
+include_once 'schemax_event_participant.features.inc';
