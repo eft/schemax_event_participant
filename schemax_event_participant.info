@@ -2,6 +2,7 @@ name = Schemax Event Participant
 description = Content type representing the intersection of events and participants
 core = 7.x
 package = Schemax
+version = 7.x-1.x
 project = schemax_event_participant
 dependencies[] = ctools
 dependencies[] = entityreference
