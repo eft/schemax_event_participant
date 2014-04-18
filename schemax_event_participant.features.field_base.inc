@@ -27,7 +27,7 @@ function schemax_event_participant_field_default_field_bases() {
     'module' => 'list',
     'settings' => array(
       'allowed_values' => array(
-        'na' => '&nbsp;',
+        'na' => '&#10065;',
         'yes' => '&#10004;',
         'no' => '&#10008;',
         'maybe' => '?',
